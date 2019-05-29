@@ -54,6 +54,8 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
     $ cd PROJECT
     $ npm install
     $ npm client-install
+    
+    Update mongoDB URI in config/key.js
 
 
 ## Start & watch - client only
