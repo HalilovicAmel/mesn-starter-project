@@ -53,9 +53,9 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
     $ git clone https://github.com/HalilovicAmel/mesn-starter-project.git
     $ cd mesn-starter-project
     $ npm install
-    $ npm client-install
+    $ npm run client-install
     
-    Update mongoDB URI in config/key.js
+    Add your mongoDB URI in config/key.js
 
 
 ## Start & watch - client only
