@@ -51,7 +51,7 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 ## Install
 
     $ git clone https://github.com/HalilovicAmel/mesn-starter-project.git
-    $ cd PROJECT
+    $ cd mesn-starter-project
     $ npm install
     $ npm client-install
     
